@@ -106,7 +106,7 @@ Este projeto foi desenvolvido como parte dos estudos do curso de "Pipeline de da
 
 ## Referências
 
-- [Curso Engenharia de Dados com Python e MongoDB - Alura](https://www.alura.com.br/)
+- [Pipeline de dados: integrando Python com MongoDB e MySQL - Alura](https://cursos.alura.com.br/course/pipeline-dados-integrando-python-mongodb-mysql)
 - [Documentação Pymongo](https://pymongo.readthedocs.io/en/stable/)
 - [Documentação MySQL Connector/Python](https://dev.mysql.com/doc/connector-python/en/)
 
